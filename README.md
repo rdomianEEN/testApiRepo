@@ -1,2 +1,0 @@
-# testApiRepo
-jenkins-github-checks
